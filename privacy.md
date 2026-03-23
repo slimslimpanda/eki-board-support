@@ -1,6 +1,6 @@
 # Privacy Policy / プライバシーポリシー
 
-[English](#english) | [日本語](#japanese) | [简体中文](#chinese) | [한국어](#korean)
+[日本語](#japanese) | [English](#english) | [简体中文](#chinese) | [한국어](#korean)
 
 ---
 
