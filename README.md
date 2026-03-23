@@ -38,6 +38,7 @@
 何か困ったことや、アプリのルールを確認したい時はこちらをチェックしてね！
 
 - 🛡️ [Privacy Policy / プライバシーポリシー](privacy.md)
+- ⚖️ [Terms of Service / 利用規約](terms.md)
 - 💌 [Support / お問い合わせ](support.md)
 
 ---
